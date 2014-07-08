@@ -15,8 +15,8 @@ GF-Calculator :
 
 introduction :
 
-    GF-Calculator is a program to preform addintion, subtraction and multiplication 
-    on two number in Galois Field 2^8
+    GF-Calculator is a program to preform addintion, subtraction and
+    multiplication on two number in Galois Field 2^8.
 
 
 Compile or Build & Run :

@@ -21,12 +21,12 @@ introduction :
 
 Compile or Build & Run :
 
-    To compile or Build and run pnum you have 2 ways 
+    To compile or Build and run GF-Calculator you have 2 ways 
 	1- compile the source files
 		a- cd src/
 		b- gcc gf-calculator.c -o gf-calculator
 		c- ./gf-calculator ---> to run the application. 
-	2- Build pnum via make file 
+	2- Build GF-Calculator via make file 
 		a- cd /Debug
 		b- make gf-calculator
 		c- ./gf-calculator ---> to run the application.
